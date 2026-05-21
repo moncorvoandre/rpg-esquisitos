@@ -1,4 +1,4 @@
-# rpg-esquisitos
+# RPG DOS ESQUISITOS
 Projeto RPG de mesa feito com: 
 
 Front - Next.JS | React | TailwindCSS (Dede) <br>
